@@ -1,0 +1,12 @@
+build/
+DerivedData/
+*.ipa
+*.app/
+__MACOSX/
+.DS_Store
+.swiftpm/
+Tests/**/.build/
+*.o
+*.dSYM/
+__pycache__/
+*.pyc
